@@ -1,7 +1,7 @@
 {
     "disableAutoUpdate": true,
     "name": "let-me-pot",
-    "author": "teralove, Loggeru",
+    "author": "teralove | Loggeru | Nekonekoo",
     "description": "Auto HP/MP Pot module",
     "version": "0.1.6",
     "options": {
@@ -10,7 +10,7 @@
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js"
     },
-    "servers": ["https://raw.githubusercontent.com/teralove/let-me-pot/master/"],
+    "servers": ["https://raw.githubusercontent.com/PatrickSantoZZ/let-me-pot/master/"],
     "supportUrl": "https://github.com/teralove/let-me-pot/issues",
     "dependencies": {
         "tera-game-state": "https://raw.githubusercontent.com/caali-hackerman/tera-game-state/master/module.json"
